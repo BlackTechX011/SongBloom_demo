@@ -1,0 +1,7 @@
+[intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro]<br>
+[verse] 我站在街头.望着那遥远的星空.心中充满了期待.期待你的出现.你是否知道.我一直在等待.等待你的到来.点亮我心中的黑暗<br>
+[chorus] 你是否愿意.与我共舞在这爵士的夜晚.让我们的心.随着旋律轻轻摇摆.也许明天.我们会各奔东西.但今夜.让我们尽情欢唱<br>
+[inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst]<br>
+[verse] 我听见你的脚步.渐行渐近.我感受到你的气息.如此熟悉.你是否愿意.与我共度这夜晚.让我们的爱.如同爵士乐般浪漫<br>
+[chorus] 你是否愿意.与我共舞在这爵士的夜晚.让我们的心.随着旋律轻轻摇摆.也许明天.我们会各奔东西.但今夜.让我们尽情欢唱<br>
+[outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro]

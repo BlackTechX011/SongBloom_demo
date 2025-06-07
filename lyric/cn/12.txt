@@ -1,0 +1,6 @@
+[intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro]<br>
+[verse] 当明天的钟声响起.你我共度此生无悔.遗憾与伤悲远离.心中只有爱的温暖.金光闪耀在眼前.我们的心紧紧相连.留住这一刻的美好.让爱永远留在心间<br>
+[chorus] 一切美好都属于你.携手共进这爱的旅途.曾经的路途虽孤单.如今有你陪伴不寂寞.愿我们的爱永恒如初.这一生与你相伴共度.珍惜每一刻的拥有.让爱永远在我们的心间流淌<br>
+[inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst]<br>
+[verse] 明天的钟声再次响起.你我相伴此生无憾.留住这一刻的美好回忆.让爱永远留在心间<br>
+[outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro]

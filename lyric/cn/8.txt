@@ -1,0 +1,7 @@
+[intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro]<br>
+[verse] 情深似海难言尽.泪珠儿滴滴映真心.为何君心似流水.此情此景何处寻<br>
+[chorus] 莫非是情深缘浅要分离.珠泪滚滚落红尘.春光明媚花正妍.怎能忍心说再见.我在山巅望天涯.秋水长流寄相思.莫忘此情似海深.此心永系君身旁<br>
+[inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst]<br>
+[verse] 泪眼婆娑问苍天.为何情深却难全.难道真要此情散.相思无尽泪涟涟<br>
+[chorus] 或许是天意弄人两分离.泪湿罗裳不自知.春花秋月又一年.相思无尽泪绵绵.我在水边望穿秋水.君心何在情难断.莫忘此情似海深.此心永系君心间<br>
+[outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro]

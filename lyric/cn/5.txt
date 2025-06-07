@@ -1,0 +1,7 @@
+[intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro]<br>
+[verse] 梦回往昔.誓言轻许.西风掠过.消散无痕.繁花似锦.终不过昙花一现.情之所钟.空余落寞.月映孤影.独酌无相亲.情深缘浅.奈何奈何<br>
+[chorus] 爱恨交织.愁肠百结.怕只怕.这些痛无尽头.悲喜交加.寂寞难耐.等一等.伤痕终会愈合.爱恨交织.情深缘浅.怕只怕.这些泪无处流.悲欢离合.浮生若梦.等一等.自由终会来临<br>
+[inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst]<br>
+[verse] 岁月匆匆.容颜已改.昔日誓言.犹如烟云.花开花落.终不过一场空.情丝难断.相思成疾.独对长空.泪湿青衫.情深似海.却无法言<br>
+[chorus] 爱恨交织.愁肠百结.怕只怕.这些痛无尽头.悲喜交加.寂寞难耐.等一等.伤痕终会愈合.爱恨交织.情深缘浅.怕只怕.这些泪无处流.悲欢离合.浮生若梦.等一等.自由终会来临<br>
+[outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro]

@@ -1,0 +1,7 @@
+[intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro]<br>
+[verse] 云端漫步又相逢.人间纷扰皆成空.墨客远行寻旧梦.你我皆是梦中人<br>
+[chorus] 剑锋如虎破长空.路遥心坚步不停.愿在每个瞬间里.都能找到力量之源.莫道人情冷暖.只愿真心永存.一人一梦.万事皆能成<br>
+[inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst]<br>
+[verse] 云卷云舒映碧空.绿意盎然春意浓.万紫千红开满园.人间处处是风景.岁月如歌人未老.江畔渔火照夜空<br>
+[chorus] 我独行.影随形动.在庙宇前许下愿.愿人心.如金石坚.一人一力.万事皆能圆.炼就一颗金石心.笑看人间繁华变<br>
+[outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro]

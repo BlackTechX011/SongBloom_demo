@@ -1,0 +1,7 @@
+[intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro]<br>
+[verse] 花朵美丽留诗篇.迎风摇曳在海边.不分昼夜寒与暖.波光粼粼心悠然<br>
+[chorus] 啊唱唱啊 情歌唱在耳边响.啊唱唱啊.心随旋律轻轻荡.海浪拍打着岸边.阳光洒满金色的沙滩.让我们共舞在这人间天堂<br>
+[inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst]<br>
+[verse] 柳丝轻扬迎芬芳.花朵绽放如霓裳.渔夫划桨水波荡.心中满是清凉想<br>
+[chorus] 唱唱唱啊.情歌唱到天亮.唱唱唱啊 心随风儿飘扬.雨滴敲打在窗棂.月光洒满静谧的夜空.让我们相拥在这人间天堂<br>
+[outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro]

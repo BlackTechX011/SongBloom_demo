@@ -1,0 +1,8 @@
+[intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro] [intro]<br>
+[verse] 狂风吹过.黄沙漫漫.黄河之水.天上来.波涛汹涌.势不可挡.千年的梦.在心间荡漾<br>
+[chorus] 掩埋了过往.热血未凉.卷起千层浪.心中河.广阔天地.任我翱翔.不朽的黄河.奔腾不息<br>
+[inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst] [inst]<br>
+[verse] 凤鸟飞舞.春华秋实.长铃摇曳.古老传说.烈酒入喉.燃烧灵魂.水波荡漾.永不回头<br>
+[chorus] 啊.黄河.永远的黄河.肩扛希望.勇敢前行.一路狂野.河水滚烫.不朽的黄河.历史的见证<br>
+[chorus] 浩荡的追求.永不停歇.黄河之水.孕育希望.生生不息.奔腾向前.不朽的黄河.我们的信仰<br>
+[outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro] [outro]
